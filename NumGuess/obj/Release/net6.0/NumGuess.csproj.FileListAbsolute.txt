@@ -1,0 +1,15 @@
+/Users/uveshbariwala/Desktop/NumGuess/NumGuess/bin/Release/net6.0/NumGuess
+/Users/uveshbariwala/Desktop/NumGuess/NumGuess/bin/Release/net6.0/NumGuess.deps.json
+/Users/uveshbariwala/Desktop/NumGuess/NumGuess/bin/Release/net6.0/NumGuess.runtimeconfig.json
+/Users/uveshbariwala/Desktop/NumGuess/NumGuess/bin/Release/net6.0/NumGuess.dll
+/Users/uveshbariwala/Desktop/NumGuess/NumGuess/bin/Release/net6.0/NumGuess.pdb
+/Users/uveshbariwala/Desktop/NumGuess/NumGuess/obj/Release/net6.0/NumGuess.csproj.AssemblyReference.cache
+/Users/uveshbariwala/Desktop/NumGuess/NumGuess/obj/Release/net6.0/NumGuess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uveshbariwala/Desktop/NumGuess/NumGuess/obj/Release/net6.0/NumGuess.AssemblyInfoInputs.cache
+/Users/uveshbariwala/Desktop/NumGuess/NumGuess/obj/Release/net6.0/NumGuess.AssemblyInfo.cs
+/Users/uveshbariwala/Desktop/NumGuess/NumGuess/obj/Release/net6.0/NumGuess.csproj.CoreCompileInputs.cache
+/Users/uveshbariwala/Desktop/NumGuess/NumGuess/obj/Release/net6.0/NumGuess.dll
+/Users/uveshbariwala/Desktop/NumGuess/NumGuess/obj/Release/net6.0/refint/NumGuess.dll
+/Users/uveshbariwala/Desktop/NumGuess/NumGuess/obj/Release/net6.0/NumGuess.pdb
+/Users/uveshbariwala/Desktop/NumGuess/NumGuess/obj/Release/net6.0/NumGuess.genruntimeconfig.cache
+/Users/uveshbariwala/Desktop/NumGuess/NumGuess/obj/Release/net6.0/ref/NumGuess.dll
